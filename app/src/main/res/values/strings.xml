@@ -44,4 +44,11 @@
     <string name="agregar">Agregar al carrito</string>
     <string name="nombre_producto">Nombre del producto</string>
     <string name="cantidad">Cantidad</string>
+
+    <string-array name="NombreProducto">
+        <item>Leche Lala</item>
+        <item>Fanta naranja</item>
+        <item>Camisa Gucci</item>
+        <item>Pepto bismol</item>
+    </string-array>
 </resources>
